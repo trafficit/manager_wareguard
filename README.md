@@ -1,4 +1,4 @@
-# manager_wareguard
+# manager_wareguard  (linux,deb)
 
 WireGuard Manager (GTK GUI)  Japan Style
 WireGuard Manager is a lightweight GTK-based graphical interface for managing WireGuard VPN connections on Linux. Designed for speed, clarity, and minimalism, it allows users to control VPN sessions, view status, and edit configuration files—all from a neon-themed GUI.
