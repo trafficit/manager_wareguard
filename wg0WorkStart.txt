@@ -1,0 +1,9 @@
+sudo wg-quick up wg0   -Старт ВПН
+
+sudo nano /etc/wireguard/wg0.conf   - редактор конфигурации
+
+curl -4 https://ipinfo.io  - Проверка IP задержка 6 сек
+
+udo wg-quick down wg0 || true  - остановка ВПН
+
+sudo systemctl enable wg-quick@wg0   - автозапуск в системе

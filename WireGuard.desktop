@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=WireGuard Manager
+Exec=/home/wizard/ProjectProd/Manager_Wareguard/manager_wareguard.py
+Icon=network-vpn
+Type=Application
+Terminal=false
+Categories=Network;
+
+#Важно чтобы убрать красный крестик
+#chmod +x ~/Desktop/WireGuard.desktop
+#gio set ~/Desktop/WireGuard.desktop metadata::trusted true
+#
